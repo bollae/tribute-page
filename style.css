@@ -1,0 +1,21 @@
+.headdiv {
+  border-bottom-style: solid;
+  border-color: #237EBD;
+  font-family: Helvetica Neue;
+  color: #237EBD;
+  margin: 0px 5px 25px 5px;
+  padding-bottom: 15px;
+}
+p{
+   font-family: Helvetica Neue;
+   text-align: justify;
+   font-size: 16px;
+ }
+body{
+  margin: 15px 50px 15px 50px;
+}
+footer{
+ border-top-style: solid;
+ border-color: #237EBD;
+ padding-top: 15px;
+}
